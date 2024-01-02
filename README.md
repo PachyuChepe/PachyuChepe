@@ -3,6 +3,7 @@
 
 <br>
 
+<div align="center">
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <span style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">💻 GitHub 💻</span>
     <div>
@@ -31,7 +32,7 @@
         </a>
     </div>
 </div>
-
+</div>
 
 <br>
 
