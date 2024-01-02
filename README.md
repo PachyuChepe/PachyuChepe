@@ -4,7 +4,7 @@
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <h2 style="text-decoration: none; text-align: center;">💻 GitHub 💻</h2>
+    <span style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">💻 GitHub 💻</span>
     <div>
         <a href="https://hits.seeyoufarm.com">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPachyuChepe&count_bg=%2300C6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
@@ -19,7 +19,7 @@
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <h2 style="text-decoration: none; text-align: center;">📝 Blog 📝</h2>
+    <span style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">📝 Blog 📝</span>
     <div>
         <a href="https://pachyuchepe.tistory.com">
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
