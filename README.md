@@ -71,4 +71,4 @@
 <div align=left> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/cloudtype-FFFFFF?style=for-the-badge&logo=cloudtype&logoColor=white"/>
+<img src="https://img.shields.io/badge/cloudtype-000000?style=for-the-badge&logo=cloudtype&logoColor=white"/>
