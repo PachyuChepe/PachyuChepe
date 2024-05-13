@@ -22,10 +22,8 @@
 <br>
 
 <div align="left">
-    <h1 style="text-decoration: none;">🏅 Algorism</h1>
-    <a href="https://solved.ac/pachyuchepe">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=pachyuchepe" alt="Solved.ac 프로필">
-    </a>
+    <h1 style="text-decoration: none;">📊 Language</h1>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact&theme=merko" alt="Top Langs">
 </div>
 
 <br>
