@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PachyuChepe&show_icons=true&theme=transparent" alt="PachyuChepe's GitHub stats" height="180">
+      <img src="https://github-readme-stats.vercel.app/api?username=PachyuChepe&show_icons=true&theme=transparent" alt="PachyuChepe's GitHub stats" height="190">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact" alt="Top Languages" height="180">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact" alt="Top Languages" height="190">
     </td>
   </tr>
 </table>
