@@ -9,7 +9,7 @@
 
 # 💻 GitHub
 
-<table border="0">
+<table  align="center" border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=PachyuChepe&show_icons=true&theme=transparent" alt="PachyuChepe's GitHub stats" height="180">
