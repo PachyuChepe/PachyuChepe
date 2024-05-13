@@ -23,7 +23,7 @@
 
 <div align="left">
     <h1 style="text-decoration: none;">📊 Language</h1>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact&theme=merko" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact" alt="Top Langs">
 </div>
 
 <br>
