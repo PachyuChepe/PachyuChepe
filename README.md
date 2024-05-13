@@ -16,7 +16,7 @@
 </br>
 
 ## Team
-|<img src="https://avatars.githubusercontent.com/u/145348244?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145348244?v=4" width="150" height="150"/>|
+| ![PachyuChepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=PachyuChepe&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact) |
 |:-:|:-:|
 
 
