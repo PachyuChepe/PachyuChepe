@@ -23,8 +23,8 @@
 
 <div align="left">
     <h1 style="text-decoration: none;">💻 Algorism</h1>
-    <a href="https://solved.ac/{pachyuchepe}">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj={pachyuchepe}" alt="Solved.ac 프로필">
+    <a href="https://solved.ac/pachyuchepe">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=pachyuchepe" alt="Solved.ac 프로필">
     </a>
 </div>
 
