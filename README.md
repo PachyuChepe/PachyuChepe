@@ -11,10 +11,10 @@
 
 <table border="0">
   <tr>
- <td style="padding-bottom: 0; vertical-align: bottom;">
+ <td style="padding-bottom: 10; vertical-align: bottom;">
       <img src="https://github-readme-stats.vercel.app/api?username=PachyuChepe&show_icons=true&theme=transparent" alt="PachyuChepe's GitHub stats" height="180">
     </td>
- <td style="padding-bottom: 0; vertical-align: bottom;">
+ <td style="padding-bottom: 10; vertical-align: bottom;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachyuchepe&layout=compact" alt="Top Languages" height="180">
     </td>
   </tr>
